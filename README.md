@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Sakolkrit Pengkhum</h1>
 <h3 align="center">A passionate student who passion about AI and Data from Thailand</h3>
 <img align= "right" alt="Coding" width="400" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"> 
-- 📫 How to reach me **sakolkrit46253@gmail.com**
-
+- 📫 How to reach me sakolkrit46253@gmail.com
+- portfolio: [sakolkrit.github.io](https://sakolkrit.github.io)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sakolkrit-pengkhum-066809211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakolkrit pengkhum" height="30" width="40" /></a>
