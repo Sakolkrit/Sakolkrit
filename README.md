@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sakolkrit Pengkhum</h1>
 <h3 align="center">A passionate student who passion about AI and Data from Thailand</h3>
 <img align= "right" alt="Coding" width="400" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"> 
-<p>- 📫 How to reach me sakolkrit46253@gmail.com<\p>
+<p>- 📫 How to reach me sakolkrit46253@gmail.com
 <p>- portfolio: <a href="https://sakolkrit.github.io">sakolkrit.github.io</a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
