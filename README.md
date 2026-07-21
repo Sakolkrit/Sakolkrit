@@ -1,4 +1,3 @@
-<p align="right"> <img src="https://scontent.fbkk22-6.fna.fbcdn.net/v/t39.30808-6/481315146_3973629352918796_8150607327978542218_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeFsn7li5SQLnK-zHePxvVjAdZ7N8q-nGLx1ns3yr6cYvBZa6nEWK99SBhmEFZxKH9eBJzuVyygDrOW3OKMhqfyV&_nc_ohc=wTPCaW5FYvIQ7kNvwGNC5zj&_nc_oc=Adpjk4xaiIWzSENXyQlDRhjZ491LAgprIK0OzmryEDHKNvmtRjsM0IY_A0RTT6Rr0rY&_nc_zt=23&_nc_ht=scontent.fbkk22-6.fna&_nc_gid=e1e9qiOuZijYV1wBn8YQgg&_nc_ss=7a30f&oh=00_Afz4xq-6hMTqj2YAKrFnEze-5cYgOpvllFX3xlsjEVycog&oe=69C2E320" alt="headmaster"></alt></p> 
 <h1 align="center">Hi 👋, I'm Sakolkrit Pengkhum</h1>
 <h3 align="center">A passionate student who passion about AI and Data from Thailand</h3>
 <img align= "right" alt="Coding" width="400" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"> 
